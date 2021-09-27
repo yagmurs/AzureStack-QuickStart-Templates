@@ -126,7 +126,7 @@
             "storageUri": "[concat(reference(concat('Microsoft.Storage/storageAccounts/', variables('diagstorageName')),providers('Microsoft.Storage', 'storageAccounts').apiVersions[0]).primaryEndpoints.blob)]"
           }
         },
-        "licenseType": "Window_Server"
+        "licenseType": "Windows_Server"
       },
       "resources": [
         {
