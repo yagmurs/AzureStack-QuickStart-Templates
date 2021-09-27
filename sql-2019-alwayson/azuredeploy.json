@@ -8,7 +8,7 @@
       "metadata": {
         "description": "Artifacts base url"
       },
-      "defaultValue": "https://raw.githubusercontent.com/Azure/AzureStack-QuickStart-Templates/master/sql-2019-alwayson"
+      "defaultValue": "https://raw.githubusercontent.com/yagmurs/AzureStack-QuickStart-Templates/master/sql-2019-alwayson"
     },
     "adminUsername": {
       "type": "string",
